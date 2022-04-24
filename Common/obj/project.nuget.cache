@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehAJgC/CwJ32xCNZ7ZgmqcaSs9UHh1JT8avTTvZBWuAf8+E1WNGaY8etaStiZY2vYSSGtdtl8dz8UZ0wH64Mjg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Community\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk\\4.4.0\\opentk.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.compute\\4.4.0\\opentk.compute.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.core\\4.4.0\\opentk.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.graphics\\4.4.0\\opentk.graphics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.input\\4.4.0\\opentk.input.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.mathematics\\4.4.0\\opentk.mathematics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.openal\\4.4.0\\opentk.openal.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.windowing.common\\4.4.0\\opentk.windowing.common.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.windowing.desktop\\4.4.0\\opentk.windowing.desktop.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.4.0\\opentk.windowing.graphicslibraryframework.4.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
