@@ -9,4 +9,4 @@ Renaldi - C14200092
 
 Rally Dewa - C14200100
 
-Video : https://drive.google.com/file/d/1RMpC9GPxjSRrDSRvnRuk35HKqpOLtUto/view?usp=sharing
+Video : https://drive.google.com/file/d/1WUXiyi7J-KJAk3seOQHE0kUBqzmUtNlt/view?usp=sharing
